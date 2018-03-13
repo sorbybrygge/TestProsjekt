@@ -1,0 +1,7 @@
+D:\Brukerdata\mors\vsprojects\SplitEnumberableWithAnd\SplitEnumberableWithAnd\bin\Debug\SplitEnumberableWithAnd.exe.config
+D:\Brukerdata\mors\vsprojects\SplitEnumberableWithAnd\SplitEnumberableWithAnd\bin\Debug\SplitEnumberableWithAnd.exe
+D:\Brukerdata\mors\vsprojects\SplitEnumberableWithAnd\SplitEnumberableWithAnd\bin\Debug\SplitEnumberableWithAnd.pdb
+D:\Brukerdata\mors\vsprojects\SplitEnumberableWithAnd\SplitEnumberableWithAnd\obj\Debug\JoinEnumberableWithCommandAndAnd.csprojResolveAssemblyReference.cache
+D:\Brukerdata\mors\vsprojects\SplitEnumberableWithAnd\SplitEnumberableWithAnd\obj\Debug\JoinEnumberableWithCommandAndAnd.csproj.CoreCompileInputs.cache
+D:\Brukerdata\mors\vsprojects\SplitEnumberableWithAnd\SplitEnumberableWithAnd\obj\Debug\SplitEnumberableWithAnd.exe
+D:\Brukerdata\mors\vsprojects\SplitEnumberableWithAnd\SplitEnumberableWithAnd\obj\Debug\SplitEnumberableWithAnd.pdb
