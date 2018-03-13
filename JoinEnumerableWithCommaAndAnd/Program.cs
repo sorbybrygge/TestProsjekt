@@ -18,6 +18,7 @@ namespace Morten
             Console.WriteLine();
             Console.WriteLine("Etterpå:");
             Console.WriteLine(theStrings.JoinWithAnd());
+
             Console.WriteLine("PRESS ENTER");
             Console.ReadLine();
         }
@@ -30,9 +31,9 @@ namespace Morten
 
         public static string JoinWithAnd(this IEnumerable<string> s)
         {
-            return string.Join(", ", s.Take(s.Count() - 1)) + (s.Count() <= 1 ? "" : " and ") +
-                   s.LastOrDefault();
-
+            var enumerable = s as string[] ?? s.ToArray();
+            return string.Join(", ", enumerable.Take(enumerable.Count() - 1)) + (enumerable.Count() <= 1 ? "" : " and ") +
+                   enumerable.LastOrDefault();
         }
 
 
